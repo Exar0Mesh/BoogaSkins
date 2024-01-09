@@ -1,0 +1,9 @@
+{
+    "name": "Booga_Suits",
+    "version_number": "1.0",
+    "website_url": "None",
+    "description": "Using the More Suits Mod, this is added suits for my friends!",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100"
+    ]
+}
